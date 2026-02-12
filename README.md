@@ -71,10 +71,11 @@ Media queries at 720px breakpoint
 
 9. Live Demo
 
-(Add GitHub Pages link here once deployed)
+https://shatha-naji.github.io/202279500-ShathaAlbaraiki-assignment1/
 
 10. Author
 
 Shatha Albaraiki
 Software Engineering Student – KFUPM
 202279500
+
