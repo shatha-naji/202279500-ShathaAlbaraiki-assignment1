@@ -18,7 +18,7 @@ else if (hour < 18) greeting = "Good afternoon 👋";
 else greeting = "Good evening 👋";
 greetingEl.textContent = greeting;
 
-// Theme toggle (saved in localStorage)
+// Theme toggle 
 const savedTheme = localStorage.getItem("theme");
 if (savedTheme === "dark") {
   document.body.classList.add("dark");
@@ -26,7 +26,7 @@ if (savedTheme === "dark") {
 }
 
 function showNotAvailable(event) {
-  event.preventDefault(); // prevents page from refreshing
+  event.preventDefault(); // this prevents page from refreshing
   alert("This project is not available yet.");
 }
 

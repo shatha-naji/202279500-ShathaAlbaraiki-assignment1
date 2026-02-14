@@ -66,7 +66,6 @@ docs/ai-usage-report.md
 The website adapts to different screen sizes using:
 .CSS Grid
 .Flexbox
-
 Media queries at 720px breakpoint
 
 9. Live Demo
